@@ -1,0 +1,14 @@
+# Antigravity runtime files
+installed_version.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
